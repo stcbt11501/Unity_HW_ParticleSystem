@@ -476,4 +476,4 @@ ScriptsOnlyBuild:
   platform: 20
   scenePathNames:
   - "Assets/\u5834\u666F/03_\u706B\u7130.unity"
-  playerPath: C:/Users/User/Documents/GitHub/Unity_HW_ParticleSystem/Web
+  playerPath: "C:/Users/User/Documents/GitHub/Unity_HW_ParticleSystem/\u65B0\u589E\u8CC7\u6599\u593E"
